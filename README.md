@@ -39,7 +39,7 @@ If you have `"outputPath": "dist/"` in your angular.json file use
 
 Your project is now available at:
 
-`https://<USERNAME>.github.io/revision/home`
+`https://<USERNAME>.github.io/<PROJECT_NAME>/`
 
 ## Tools documentation :
 
